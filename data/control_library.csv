@@ -1,0 +1,8 @@
+control_id,domain,control_name,objective,frequency,evidence_examples
+IAM-01,Identity and Access Management,User Access Recertification,Ensure access remains appropriate and periodically reviewed,Quarterly,Access review export; reviewer sign-off; remediation tickets
+IAM-02,Identity and Access Management,Privileged Access Management,Restrict and monitor privileged access,Quarterly,Privileged account inventory; approvals; PAM logs
+CHG-01,Change Management,Production Change Management,Ensure production changes are authorised tested and approved,Per change,Change tickets; approvals; test evidence
+VUL-01,Vulnerability Management,Critical Vulnerability Remediation,Ensure critical vulnerabilities are remediated within policy timelines,Monthly,Scanner export; remediation tickets; exceptions
+PAT-01,Patch Management,Patch Compliance,Ensure systems receive security patches within defined timelines,Monthly,Patch compliance report; deployment logs
+BKP-01,Backup and Recovery,Backup and Recovery,Ensure backups are successful and recoverable,Daily/Periodic,Backup logs; restore test evidence
+MON-01,Security Monitoring,Security Alert Monitoring,Ensure security alerts are monitored and escalated,Daily,SIEM alerts; incident tickets; escalation evidence

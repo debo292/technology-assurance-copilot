@@ -1,0 +1,37 @@
+{
+  "IAM & Privileged Access": [
+    "iam",
+    "iam_access_population.csv",
+    "IAM access population with employee status, account status, privilege and review fields."
+  ],
+  "Change Management": [
+    "change",
+    "change_management.csv",
+    "Production change tickets with approvals, testing, implementation and emergency review."
+  ],
+  "Vulnerability & Patch Management": [
+    "vulnerability",
+    "vulnerability_patch.csv",
+    "Vulnerability findings with severity, age, remediation SLA and patch status."
+  ],
+  "Backup & Disaster Recovery": [
+    "backup",
+    "backup_dr.csv",
+    "Backup job status, restore-test evidence and RPO measurements."
+  ],
+  "Security Monitoring & Logging": [
+    "monitoring",
+    "security_monitoring.csv",
+    "Log source status and security alert triage records."
+  ],
+  "Third-Party Risk Management": [
+    "third_party",
+    "third_party_risk.csv",
+    "Vendor criticality, due diligence, assurance report and contract security indicators."
+  ],
+  "Cloud Security Configuration": [
+    "cloud",
+    "cloud_security.csv",
+    "Cloud resource exposure, encryption, MFA, logging, security group and backup settings."
+  ]
+}
