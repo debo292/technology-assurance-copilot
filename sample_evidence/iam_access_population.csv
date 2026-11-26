@@ -1,0 +1,9 @@
+user_id,username,employment_status,account_status,account_type,privileged,manager_approval,access_review_status,last_login,review_date,exception_id
+U1001,asha.nair,Active,Active,Employee,No,Approved,Completed,2026-11-20,2026-11-15,
+U1002,rohan.mehta,Terminated,Active,Employee,No,Approved,Completed,2026-11-18,2026-11-15,
+U1003,svc_backup,Active,Active,Service,Yes,,Pending,2026-06-01,,
+U1004,priya.shah,Active,Active,Employee,No,Approved,Pending,2026-11-10,,
+U1005,admin_ops,Active,Active,Privileged,Yes,Pending,Not Started,2026-07-01,,
+U1006,amit.kulkarni,Active,Active,Employee,No,Approved,Completed,2026-05-01,2026-11-15,
+U1007,neha.rao,Active,Disabled,Employee,No,Approved,Completed,2026-03-01,2026-11-15,
+U1008,svc_batch,Active,Active,Service,No,Approved,Completed,2026-08-01,2026-11-15,

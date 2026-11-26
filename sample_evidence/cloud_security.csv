@@ -1,0 +1,5 @@
+asset_id,public_access,encryption_enabled,mfa_enabled,logging_enabled,security_group_open_to_world,backup_enabled
+S3-001,Yes,No,Yes,Yes,No,Yes
+VM-002,No,Yes,No,Yes,Yes,Yes
+DB-003,No,Yes,Yes,No,No,No
+STORAGE-004,No,Yes,Yes,Yes,No,Yes

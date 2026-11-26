@@ -1,0 +1,5 @@
+asset_id,last_backup_status,restore_test_status,rpo_hours,actual_rpo_hours,last_backup_date
+CORE-DB,Success,Passed,4,2,2026-11-25
+PAY-APP,Failed,Not Tested,2,5,2026-11-24
+HR-SYS,Success,Not Tested,24,20,2026-11-25
+CRM,Success,Passed,8,10,2026-11-25

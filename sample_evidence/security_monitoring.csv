@@ -1,0 +1,5 @@
+asset_id,log_enabled,last_log_date,alert_severity,alert_status,incident_ticket
+FW-01,No,2026-11-25,High,Open,INC-9001
+DB-01,Yes,2026-11-26,Critical,Resolved,INC-9002
+APP-02,Yes,2026-11-26,Medium,Closed,
+VPN-01,Yes,2026-11-25,Critical,Investigating,INC-9003

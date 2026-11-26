@@ -1,0 +1,4 @@
+vendor_id,criticality,due_diligence_status,soc_report_status,soc_report_expiry,contract_security_clauses,last_review_date
+VEND-01,Critical,Pending,Expired,2026-08-31,No,2026-04-01
+VEND-02,High,Completed,Current,2027-05-31,Yes,2026-10-01
+VEND-03,Low,Not Started,Not Available,,No,2026-01-15
